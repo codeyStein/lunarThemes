@@ -11,4 +11,4 @@ Install Stylus extention for your browser, then go to typetest.io, click on the 
 * Winter
 
 # userstyles.world
-If you'd like, you can also use [userstyles.world](), you can visit my profile parge [here](https://userstyles.world/user/codeystein)
+If you'd like, you can also use [userstyles.world](https://userstyles.world/user/codeystein), you can visit my profile parge [here](https://userstyles.world/user/codeystein)

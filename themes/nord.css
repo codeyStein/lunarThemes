@@ -1,0 +1,24 @@
+
+:root {
+  /*
+      Winter | Cødey
+  */
+      --text-light: #fff;
+      --grey-0: #242933;
+      --grey-1: #2E3440;
+      --grey-2: #B48387;
+      --grey-3: #d9a9ad;
+      --grey-4: #B48387;
+      --grey-5: #d9a9ad;
+      --test-highlight: #B48387;
+      --blue-0: #d9a9ad;
+      --blue-1: #B48387;
+      --blue-2: #B48387;
+      --blue-3: #B48387;
+      --danger-0: #BF616A;
+      --danger-1: #9e474f;
+      --danger-2: #692d32;
+      --success-0: #A3BE8C;
+      --success-1: #7f9c67;
+  }
+  
